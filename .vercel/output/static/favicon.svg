@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#f6f3ee"/>
+  <rect x="8" y="24.5" width="16" height="2.2" rx="1.1" fill="#3f6f5b"/>
+  <text x="16" y="15.2" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Liberation Serif', 'Times New Roman', serif"
+        font-size="20" font-weight="700" fill="#1c1b18">С</text>
+</svg>
